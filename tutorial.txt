@@ -1,0 +1,8 @@
+
+para criar um ambiente vitual python
+
+python -m venv env
+
+para ativar a maquina virtual
+
+env/Scripts/Activate
